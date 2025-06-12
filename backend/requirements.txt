@@ -1,0 +1,11 @@
+flask
+flask-cors
+pandas
+tabulate
+python-dotenv
+mysql-connector-python
+sqlparse
+google-generativeai
+requests
+sqlalchemy
+pymysql
