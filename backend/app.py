@@ -1,3 +1,18 @@
+"""
+AI-Powered eCommerce Database Assistant - Backend Server
+Final Year Project (FYP)
+
+Author: Muhammad Qasim
+Registration: 2021-ag-7873
+University: University of Agriculture, Faisalabad (UAF)
+Degree: BS Computer Science
+Batch: 2021-2025
+Email: qasimvirk90@gmail.com
+
+Description: Flask backend server for AI-powered eCommerce analytics system
+that converts natural language queries to SQL using Google's Gemini AI.
+"""
+
 from flask import Flask, request, jsonify
 import os
 import mysql.connector

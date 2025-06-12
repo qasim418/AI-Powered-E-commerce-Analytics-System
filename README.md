@@ -220,22 +220,28 @@ This project is created for academic purposes as part of a Final Year Project at
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Muhammad Qasim]**
 - University: University of Agriculture, Faisalabad (UAF)
 - Degree: BS Computer Science
 - Project: Final Year Project (FYP)
-- Year: 2025
+- Batch: 2021-2025
+- Regd. number: 2021-ag-7873
 
 ## 🙏 Acknowledgments
 
+- **Dr. Salman Afsar Awan** - Project Supervisor ([Faculty Profile](https://web.uaf.edu.pk/FacultyProfile/Profile/450))
 - **University of Agriculture, Faisalabad** for providing the academic framework
+- **Computer Science Department** for academic support and guidance
 - **Google Gemini AI** for natural language processing capabilities
 - **React.js Community** for excellent documentation and resources
 - **Flask Community** for the lightweight and flexible web framework
 
 ## 📞 Support
 
-For any questions or support regarding this project, please feel free to reach out or create an issue in the repository.
+For any questions or support regarding this project, please feel free to reach out:
+
+- **Email**: qasimvirk90@gmail.com
+- **GitHub Issues**: Create an issue in the repository for bug reports or feature requests
 
 ---
 

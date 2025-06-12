@@ -415,6 +415,16 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 Thank you for considering contributing to this project! Your contributions help make this a better learning resource for students and developers interested in AI and database technologies.
 
+## 📞 Contact
+
+For questions about contributions or the project:
+
+- **Project Author**: Muhammad Qasim
+- **Email**: qasimvirk90@gmail.com
+- **Registration**: 2021-ag-7873
+- **University**: University of Agriculture, Faisalabad (UAF)
+- **GitHub Issues**: [Create an issue](https://github.com/qasim418/AI-Powered-E-commerce-Analytics-System/issues)
+
 ---
 
 *Happy Contributing! 🚀*

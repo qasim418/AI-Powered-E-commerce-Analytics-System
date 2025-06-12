@@ -1,7 +1,14 @@
 {
-  "name": "frontend",
+  "name": "ai-ecommerce-analytics-frontend",
   "version": "0.1.0",
   "private": true,
+  "description": "AI-Powered eCommerce Database Assistant Frontend - Final Year Project",
+  "author": {
+    "name": "Muhammad Qasim",
+    "email": "qasimvirk90@gmail.com",
+    "university": "University of Agriculture, Faisalabad (UAF)",
+    "registration": "2021-ag-7873"
+  },
   "dependencies": {
     "@chakra-ui/react": "^3.19.1",
     "@emotion/react": "^11.14.0",

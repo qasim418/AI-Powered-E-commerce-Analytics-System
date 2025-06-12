@@ -206,7 +206,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 🙏 Acknowledgments
 
 ### Contributors
-- **[Your Name]** - Project Lead and Developer
+- **Muhammad Qasim** - Project Lead and Developer (Regd. 2021-ag-7873)
+- **Dr. Salman Afsar Awan** - Project Supervisor ([Faculty Profile](https://web.uaf.edu.pk/FacultyProfile/Profile/450))
 - **University of Agriculture, Faisalabad** - Academic Institution
 - **Computer Science Department** - Academic Support
 
@@ -217,7 +218,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Tools**: VS Code, Git, npm, pip
 
 ### Special Thanks
-- Supervisor and faculty for guidance
+- **Dr. Salman Afsar Awan** - Project supervision and academic guidance
 - Fellow students for feedback and testing
 - Open source community for excellent tools and libraries
 
