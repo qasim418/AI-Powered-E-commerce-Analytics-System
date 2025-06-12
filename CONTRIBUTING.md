@@ -17,7 +17,7 @@ This is an academic Final Year Project (FYP) for BS Computer Science at Universi
 
 ### Development Setup
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/ai-ecommerce-assistant.git`
+2. Clone your fork: `git clone https://github.com/qasim418/AI-Powered-E-commerce-Analytics-System.git`
 3. Follow the [Installation Guide](INSTALLATION.md)
 4. Create a new branch: `git checkout -b feature/your-feature-name`
 
@@ -56,7 +56,7 @@ This is an academic Final Year Project (FYP) for BS Computer Science at Universi
 ### 2. Contribution Process
 
 #### Step 1: Choose an Issue
-- Check existing [Issues](https://github.com/yourusername/ai-ecommerce-assistant/issues)
+- Check existing [Issues](https://github.com/qasim418/AI-Powered-E-commerce-Analytics-System/issues)
 - Look for labels: `good first issue`, `help wanted`, `bug`, `enhancement`
 - Comment on the issue to express interest
 

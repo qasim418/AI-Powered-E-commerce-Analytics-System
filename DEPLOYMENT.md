@@ -53,8 +53,8 @@ su - fyp-app
 
 #### Clone Repository
 ```bash
-git clone https://github.com/yourusername/ai-ecommerce-assistant.git
-cd ai-ecommerce-assistant
+git clone https://github.com/qasim418/AI-Powered-E-commerce-Analytics-System.git
+cd AI-Powered-E-commerce-Analytics-System
 ```
 
 ### Step 2: Database Setup

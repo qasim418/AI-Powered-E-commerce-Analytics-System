@@ -66,8 +66,8 @@ This project demonstrates the integration of modern web technologies with AI cap
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-ecommerce-assistant.git
-   cd ai-ecommerce-assistant
+   git clone https://github.com/qasim418/AI-Powered-E-commerce-Analytics-System.git
+   cd AI-Powered-E-commerce-Analytics-System
    ```
 
 2. **Backend Setup**

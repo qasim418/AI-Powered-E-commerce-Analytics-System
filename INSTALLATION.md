@@ -43,8 +43,8 @@ This guide will help you set up the AI-Powered eCommerce Database Assistant on y
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-ecommerce-assistant.git
-cd ai-ecommerce-assistant
+git clone https://github.com/qasim418/AI-Powered-E-commerce-Analytics-System.git
+cd AI-Powered-E-commerce-Analytics-System
 ```
 
 ### Step 2: Backend Configuration
